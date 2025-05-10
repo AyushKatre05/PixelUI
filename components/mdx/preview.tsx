@@ -15,7 +15,7 @@ interface PreviewProps {
 
 const prePath = process.env.VERCEL_PROJECT_PRODUCTION_URL
   ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
-  : "https://pixelui-ak.vercel.app";
+  : "https://pixelui.ayushkatre.tech";
 
 export function Preview({
   children,
