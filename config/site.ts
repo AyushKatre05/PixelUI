@@ -1,6 +1,6 @@
 export const siteConfig = {
     name: "Pixel UI",
-    url: "https://localhost:3000",
+    url: "https://pixelui.ayushkatre.tech",
     ogImage: "#",
     description:
         "Copy, Paste, Customize. A collection of modern, interactive, customizable UI components. Quick and easy to use.",
