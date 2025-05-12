@@ -49,7 +49,7 @@ export const HeroSection = () => {
           {/* Right Side: What's Inside Feature Grid */}
           <div className="hidden lg:grid grid-cols-2 gap-4 p-6 bg-zinc-50 dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 rounded-xl shadow-md">
             {[
-              { title: "15+ Components", emoji: "🧩" },
+              { title: "25+ Components", emoji: "🧩" },
               { title: "Dark Mode", emoji: "🌙" },
               { title: "Theming Support", emoji: "🎨" },
               { title: "Keyboard Nav", emoji: "⌨️" },
