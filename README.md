@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# PixelUI
 
-## Getting Started
+PixelUI is a sleek, accessible, and customizable component library built on top of [shadcn/ui](https://ui.shadcn.com/). Designed for rapid development with great design defaults, PixelUI helps you build modern React applications with ease.
 
-First, run the development server:
+## ✨ Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- ⚡ Built on top of shadcn/ui and Tailwind CSS
+- 🎨 Themeable and customizable components
+- 🧩 Prebuilt, composable UI primitives
+- 🌙 Dark mode support out of the box
+- 📦 Ready for integration with Next.js, Vite, and more
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🧱 Components
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+PixelUI includes a curated set of components such as:
 
-## Learn More
+- Buttons
+- Cards
+- Alerts
+- Inputs
+- Tabs
+- Accordions
+- Tooltips and more You can simply explore it
 
-To learn more about Next.js, take a look at the following resources:
+Each component is built to be accessible, composable, and customizable to match your brand or app theme.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠 Customization
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+PixelUI leverages Tailwind’s utility-first approach and supports theme overrides. Easily adjust:
 
-## Deploy on Vercel
+- Fonts
+- Colors
+- Border radius
+- Shadows
+- Animations
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🌐 Usage
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+PixelUI components can be imported and used directly in your React project. Each component follows a consistent structure for props, slots, and customization.
+
+## 📚 Documentation
+
+You can find detailed usage examples, props, and theming guides for each component in the `/docs` folder or at your documentation site (if available).
+
+## 🤝 Contributing
+
+We welcome contributions! Feel free to open an issue, suggest features, or submit pull requests.
+
+## 📝 License
+
+MIT License.  
+© 2025 PixelUI Team
